@@ -2,7 +2,7 @@
     get_header();
 ?>
 
-
+	<br><br>
 	<!-- Cart -->
 	<div class="wrap-header-cart js-panel-cart">
 		<div class="s-full js-hide-cart"></div>
